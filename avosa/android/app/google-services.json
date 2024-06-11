@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487520353658",
+    "project_id": "avosa-f47dd",
+    "storage_bucket": "avosa-f47dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487520353658:android:27ece61681b76d297a6ac3",
+        "android_client_info": {
+          "package_name": "com.boscosoft.stmarysalain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7sdfeygOT7TV9X10jNOHOjSwIu3iKivg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

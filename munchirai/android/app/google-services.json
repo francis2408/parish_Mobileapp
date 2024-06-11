@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189870995722",
+    "project_id": "cristoparish",
+    "storage_bucket": "cristoparish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189870995722:android:77944a2c3b25ac0968a2f3",
+        "android_client_info": {
+          "package_name": "com.boscosoft.munchirai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvyV0EJapF-ukE0i7VcisRNiaHLi53Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
